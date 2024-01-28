@@ -12,4 +12,4 @@ iTshirt
 
 in cli
 
-inbt test
+inbt testaa
